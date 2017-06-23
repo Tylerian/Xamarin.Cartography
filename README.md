@@ -221,9 +221,10 @@ Read the documentation [here](http://robb.github.io/Cartography/). For more info
 
 Xamarin.Cartography is a complete C# port written by [Jairo Tylera][me].
 
-Cartography was built by [Robb Böhnke][me] and was inspired by the excellent
+Cartography was built by [Robb Böhnke][robb] and was inspired by the excellent
 [FLKAutoLayout] by [Florian Kugler][florian].
 
 [flkautolayout]: https://github.com/floriankugler/FLKAutoLayout
 [florian]:       https://github.com/floriankugler
+[robb]:          http://robb.is
 [me]:            http://jairo.me
