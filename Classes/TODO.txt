@@ -1,0 +1,17 @@
+﻿Property.cs:
+	- IAddition -> DONE,
+	- IMultiplication -> DONE,
+	- IRelativeEquality -> DONE,
+	- IRelativeInequality -> DONE,
+	- INumericalEquality -> DONE,
+	- INumericalInequality -> DONE
+
+
+
+Expression.cs:
+	- IExpression -> DONE,
+	- BaseExpression -> DONE,
+	- AdditionExpression -> DONE,
+	- MultiplicationExpression -> DONE,
+	- RelativeEqualityExpression -> DONE,
+	- RelativeInequalityExpression -> DONE
